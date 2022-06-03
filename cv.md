@@ -1,26 +1,24 @@
-# Siarhei Yafimenka
+# Siarhei Yafimenka   
 
 ## *My contacts*
 
 + **Phone:** +37533 394-99-25
 + **E-mail:** h1_n1@mail.ru
 + **Discord:** Ef-Siarhei
-+ **Telegram** @Liluu87
++ **Telegram** @Liluu87  
 
-***
+
 ## *About me*
-
 My goal is to learn more new things every day. I want to develop and not stand still.
 
-***
-## *Skills*
 
+## *Skills*
 + HTML
 + cSS
 + GIT
 + VS Code
 
-***
+
 ## *Example of code*
 ```
 <!DOCTYPE html>
@@ -39,15 +37,15 @@ scale=1.0">
 </html>
 ```
 
-***
+
 ## *Experience work*
 I don`t have experience now.
 
-***
+
 ## *Education*
 + Minsk College of Architecture and Construction
 + Polotsk State University
 
-***
+
 ## *Language*
 English - F2
