@@ -40,3 +40,11 @@ scale=1.0">
 ```
 
 ***
+## Experience work
+I don`t have experience now.
+
+***
+## Education
++ Minsk College of Architecture and Construction
++ Polotsk State University
+
