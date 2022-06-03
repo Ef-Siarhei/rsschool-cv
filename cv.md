@@ -8,3 +8,8 @@
 + **Telegram** @Liluu87
 
 ***
+## About me
+
+My goal is to learn more new things every day. I want to develop and not stand still.
+
+***
