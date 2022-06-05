@@ -8,6 +8,7 @@ body {
    flex-direction: column;
    height: 100vh;
    font-size: 18px;
+   background: #ffffff;
 }
 
 header,
@@ -45,6 +46,45 @@ main {
    max-width: 1140px;
    margin: auto;
    border: 3px solid #000000;
+}
+
+
+.main
+.container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+
+#profile {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   width: 100%;
+   font-size: 40px;
+   margin: 10px;
+}
+
+.section {
+   width: 45%;
+   padding: 0 50px;
+   margin: 20px;
+   background: #00000006;
+   border-radius: 10px;
+   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) inset;
+}
+
+pre {
+   margin: 0;
+}
+
+.bold {
+   font-weight: bold;
+}
+
+#contacts
+a {
+   padding-left: 5px;
 }
 
 .footer-list {
