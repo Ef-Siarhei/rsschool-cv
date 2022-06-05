@@ -1,3 +1,19 @@
 * {
    box-sizing: border-box;
 }
+
+body {
+   margin: 0;
+}
+
+header {
+   border: 3px solid #786787;
+}
+
+main {
+   border: 3px solid #67876f;
+}
+
+footer {
+   border: 3px solid #e82159;
+}
