@@ -17,3 +17,9 @@ main {
 footer {
    border: 3px solid #e82159;
 }
+
+.container {
+   max-width: 1140px;
+   margin: auto;
+   border: 3px solid #000000;
+}
