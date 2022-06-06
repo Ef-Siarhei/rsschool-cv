@@ -68,6 +68,7 @@ main {
    width: 100%;
    font-size: 40px;
    margin: 10px;
+   text-align: center;
 }
 
 .section {
@@ -115,4 +116,25 @@ a {
 
 .footer-item:hover {
    filter: invert(1);
+}
+
+@media (max-width: 840px) {
+   .section {
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+   }
+
+   .main
+   .container {
+      flex-direction: column;
+   }
+
+   #profile {
+      flex-direction: column;
+   }
+
+   .section-profile-title {
+      font-size: 25px;
+   }
 }
