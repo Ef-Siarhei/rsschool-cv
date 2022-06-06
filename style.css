@@ -13,12 +13,13 @@ body {
    height: 100vh;
    font-size: 18px;
    line-height: 1.5;
-   background: #ffffff;
+   background: #D1E8E2;
+   color: #116466;
 }
 
 header,
 footer {
-   background: #78907c;
+   background: #2c353160;
    font-size: 22px;
 }
 
@@ -43,7 +44,6 @@ footer {
 
 main {
    flex-grow: 1;
-   border: 3px solid #67876f;
 }
 
 .container {
