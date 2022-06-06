@@ -18,7 +18,6 @@ body {
 
 header,
 footer {
-   border: 3px solid #f56b02;
    background: #78907c;
    font-size: 22px;
 }
@@ -50,7 +49,6 @@ main {
 .container {
    max-width: 1140px;
    margin: auto;
-   border: 3px solid #000000;
 }
 
 
