@@ -137,4 +137,14 @@ a {
    .section-profile-title {
       font-size: 25px;
    }
+
+   .nav-list {
+      padding: 0;
+      justify-content: center;
+   }
+
+   .nav-link {
+      padding: 3px 5px;
+      font-size: 20px;
+   }
 }
