@@ -1,0 +1,146 @@
+* {
+   box-sizing: border-box;
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
+body {
+   margin: 0;
+   display: flex;
+   flex-direction: column;
+   height: 100vh;
+   font-size: 18px;
+   line-height: 1.5;
+   background: #D1E8E2;
+   color: #116466;
+}
+
+header,
+footer {
+   background: #2c353160;
+   font-size: 22px;
+}
+
+.nav-list {
+   display: flex;
+   justify-content: flex-end;
+   list-style: none;
+}
+
+.nav-link {
+   padding: 3px 10px;
+   text-decoration: none;
+   color: #000000;
+}
+
+.nav-link:hover {
+   color: #ffffff;
+   background: #488d37;
+   border-radius: 15px;
+   box-shadow: 0 0 40px rgba(0, 0, 0, 0.7) inset;
+}
+
+main {
+   flex-grow: 1;
+}
+
+.container {
+   max-width: 1140px;
+   margin: auto;
+}
+
+
+.main .container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+
+#profile {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   width: 100%;
+   font-size: 40px;
+   margin: 10px;
+   text-align: center;
+}
+
+.section {
+   width: 45%;
+   padding: 0 50px;
+   margin: 20px;
+   background: #00000006;
+   border-radius: 10px;
+   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) inset;
+}
+
+pre {
+   margin: 0;
+}
+
+.bold {
+   font-weight: bold;
+   width: 85px;
+}
+
+.contact {
+   display: flex;
+   justify-content: flex-start;
+}
+
+.contact a {
+   color: #2C3531;
+}
+
+
+.footer-list {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 0 10px;
+}
+
+.footer-item,
+a {
+   text-decoration: none;
+   list-style: none;
+   color: #000000;
+   transition: 0.5s;
+}
+
+.footer-item:hover {
+   filter: invert(1);
+}
+
+@media (max-width: 840px) {
+   .section {
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+   }
+
+   .main .container {
+      flex-direction: column;
+   }
+
+   #profile {
+      flex-direction: column;
+   }
+
+   .section-profile-title {
+      font-size: 25px;
+   }
+
+   .nav-list {
+      padding: 0;
+      justify-content: center;
+   }
+
+   .nav-link {
+      padding: 3px 5px;
+      font-size: 20px;
+   }
+}
