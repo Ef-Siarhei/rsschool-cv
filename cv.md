@@ -16,3 +16,27 @@ My goal is to learn more new things every day. I want to develop and not stand s
 + CSS
 + GIT
 + VS Code
+
+## *Example of code*
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-
+
+scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello VC Code</h1>
+</body>
+</html>
+```
+
+
+## *Experience work*
+1. [Travel](https://rolling-scopes-school.github.io/ef-siarhei-JSFEPRESCHOOL2022Q2/travel/)  
+2. [Momentum](https://ef-siarhei-momentum.netlify.app/)  
+3. [Eldrich Horror](https://ef-siarhei-codejam-eldritch.netlify.app/)
