@@ -35,8 +35,15 @@ scale=1.0">
 </html>
 ```
 
-
 ## *Experience work*
 1. [Travel](https://rolling-scopes-school.github.io/ef-siarhei-JSFEPRESCHOOL2022Q2/travel/)  
 2. [Momentum](https://ef-siarhei-momentum.netlify.app/)  
 3. [Eldrich Horror](https://ef-siarhei-codejam-eldritch.netlify.app/)
+
+## *Education*
++ Minsk College of Architecture and Construction
++ Polotsk State University
+
+
+## *Language*
+English - A2
